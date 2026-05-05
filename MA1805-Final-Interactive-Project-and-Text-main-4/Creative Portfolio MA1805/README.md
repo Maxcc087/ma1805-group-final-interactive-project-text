@@ -11,3 +11,5 @@ Reason I choose this mechanic:
 
 Challenge:
 This time I decided to add another level into this game and try to make the game smoother. Last time when I submit this it is only 1 level and the character is dropping too slow, so I increase the character falling speed which it won't be hanging in the air for so long. Also, in my second level I spice up the difficulties, so the game will be more challenging than the previous. In the progress of makeing this new level, I need to spend more time on thinkming where i should put the platforms at, how to go from level 1 to level 2, how to create more CCTV and control their moving speed and position differently and more. Although it is the same steps as the last assignment I submitted, but I already forget how to do it. Ultimately, I need to start all over again from scretch and learn how to create level 2.
+
+https://github.com/Maxcc087/ma1805-group-final-interactive-project-text
