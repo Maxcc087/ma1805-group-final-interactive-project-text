@@ -1,0 +1,13 @@
+This game is the same game as I last submitted for my assignment. However, it is a better and fixed version than the previous one. In this game I am trying to use our University mascot, "Royal Holloway Bear" as the main character to hide from the CCTV around our campus because it just stole some coins from the University. In this game you as a player are supposed to try not to get caught by the CCTV around the campus and try to escape with the coins you stole. Last time the feedback said that I haven't state the reason why I choose certain visuals, sounds or mechancis. So I will list it down below.
+
+Reason I choose this visual:
+-I want the background to be RHUL related so I choosed Founders as the background for the game from Googlr. Although I will admit it doesn't look great as a background of the game but this picture is the best picture of Founders I can found online. Plus, in my last assignment, I have already said I learn how to build this game from a YouTube channel and I dont want to fully copy him, so the floor, boxes and character and coins are all find by myself and I convert those images into suitable format to put in the game.
+
+Reason I choose this sound:
+-For the sound, I download the background music on a website which provides a lot of old video games soundtrack. I just choose one I like and I think will fit and put it in my game instead of using the Mario soundtrack. However, for jumping and coin sound effect I just choose the same as Mario Game.
+
+Reason I choose this mechanic:
+-The reason I choose this mechanics is because most of the early computer games use the arrow keys to move the characters. I remember when I was small I use to go Google and search up "Car Games" and most of those games only require to use arrow keys to control. Plus, it is easy to control even for a 5 years old child.
+
+Challenge:
+This time I decided to add another level into this game and try to make the game smoother. Last time when I submit this it is only 1 level and the character is dropping too slow, so I increase the character falling speed which it won't be hanging in the air for so long. Also, in my second level I spice up the difficulties, so the game will be more challenging than the previous. In the progress of makeing this new level, I need to spend more time on thinkming where i should put the platforms at, how to go from level 1 to level 2, how to create more CCTV and control their moving speed and position differently and more. Although it is the same steps as the last assignment I submitted, but I already forget how to do it. Ultimately, I need to start all over again from scretch and learn how to create level 2.
